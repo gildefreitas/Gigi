@@ -1,0 +1,15 @@
+Modelagem conceitual
+modelagem logica
+Modelagem Fisica (criar tabela / create table)
+
+
+Pesoas   Botecos  Cerveja
+
+Pessoas ( nome, sexo)
+
+Botecos --gostam-- ( nome, cidade)
+Cerveja ( nome, tipo, alcoolico, cor (nacional), faricante)
+
+
+BRMODELO
+https://app.brmodeloweb.com/#!/conceptual/650b6786cd843ec96bda30ea
